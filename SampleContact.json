@@ -1,0 +1,25 @@
+{
+    "ContactName":{
+        "FirstName":"FirstName",
+        "LastName":"Nguyen"
+    },
+    "ContactBirthday":{
+        "Birthday":"1990-12-01T00:00:00"
+    },
+    "ContactEmail":{
+        "Email":""
+    },
+    "ContactPhone":{
+        "MobilePhone":"000000000",
+        "HomePhone":"000000000",
+        "WorkPhone":"000000000"
+    },
+    "ContactAddress":{
+        "AddressLine1":"Ho Chi Minh",
+        "AddressLine2":"Ho Chi Minh",
+        "AddressCity":"Ho Chi Minh",
+        "AddressState":"Ho Chi Minh",
+        "AddressZIPCode":"70000"
+    },
+    "ContactType":"Customer"
+}
